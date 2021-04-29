@@ -18,7 +18,6 @@ We now have the basic functions of a review website, including:
 Version Alpha 1.0 (29/4/2021):
 - Upload Image function not working
 - Home Page 'Blog Posts' is currently only a template
-- Reset Password function not working
 - Film Detail Page needs reworking on design
 
 # Future Development
@@ -32,4 +31,4 @@ Version Alpha 1.1:
 - Revamp on design
 - Updating the Film Details entries to include various aspects of the film (director, cast, genre etc.)
 - Viewing others' profiles
-- Fixing the Reset Password function
+- Adding Reset Password function & Notifications
